@@ -1,4 +1,5 @@
 def meal_choice(a = "meat")
+  puts "#{a}"
 end
 
   
